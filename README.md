@@ -1,2 +1,2 @@
-# tableau-dashboards
-Repo containing Tableau Dashboards
+# Dashboards
+Repo containing BI Dashboards
